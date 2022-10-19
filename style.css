@@ -1,0 +1,30 @@
+body {
+    background-color: #1e1e1e;
+}
+
+.main-div {
+    margin-top: 100px;
+}
+
+.head-1 {
+    padding-left: 120px;
+    color: white;
+}
+
+.disp {
+    color: white;
+    padding: 20px;
+}
+
+.dispMin {
+    margin-left: 100px;
+}
+
+.dispSec {
+    margin-left: 100px;
+}
+
+.dispMsec {
+    margin-left: 20px;
+}
+
